@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on minimalist parsing, autograding python, and semantic parsing
+- 😄 Pronouns: she/her (but they/them is fine too)
+- 💬 Ask me about linguistics!

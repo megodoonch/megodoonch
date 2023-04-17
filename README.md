@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her (but they/them is fine too)
 - 💬 Ask me about linguistics!
 
-This semester I'm teaching programming to AI students at Utrecht University
+
+I work at Utrecht University.
+
+This block I'm teaching programming to AI students at Utrecht University

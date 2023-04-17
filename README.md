@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on minimalist parsing, autograding python, and semantic parsing
 - 😄 Pronouns: she/her (but they/them is fine too)
 - 💬 Ask me about linguistics!
+
+This semester I'm teaching programming to AI students

@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her (but they/them is fine too)
 - 💬 Ask me about linguistics!
 
-This block I'm teaching Digital Tools and Methods to linguistics students at Utrecht University
+This block I'm teaching Digital Tools and Methods to linguistics students at Utrecht University. Hooray!
